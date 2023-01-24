@@ -1,0 +1,60 @@
+{
+  "882991290269171752": {
+    "276801339990867968": {
+      "puntos": 6803,
+      "inventario": [
+        "Cromo de Press",
+        "Cromo de Soker",
+        "Cromo de Javitotti",
+        "Cromo de Milioz",
+        "Cromo de Daan",
+        "Cromo de Milioz",
+        "Cromo de Gladoop",
+        "Cromo de Rogerzz",
+        "Cromo de GY2017",
+        "Cromo de Goyo",
+        "Cromo de Manum"
+      ],
+      "repetidos": [
+        "Cromo de Soker",
+        "Cromo de Javitotti",
+        "Cromo de Milioz",
+        "Cromo de Daan",
+        "Cromo de Milioz",
+        "Cromo de Gladoop",
+        "Cromo de Rogerzz"
+      ]
+    },
+    "131057512031059968": {
+      "puntos": 4653,
+      "inventario": [
+        "Cromo de Daves"
+      ],
+      "repetidos": []
+    },
+    "239027038667669507": {
+      "puntos": 286,
+      "inventario": [
+        "Cromo de Javitotti"
+      ],
+      "repetidos": [
+        "Cromo de Manum"
+      ]
+    },
+    "487029864797569055": {
+      "puntos": 7,
+      "inventario": [
+        "Cromo de Soker",
+        "Cromo de Gladoop"
+      ],
+      "repetidos": []
+    }
+  },
+  "826027186658082827": {
+    "276801339990867968": {
+      "puntos": 20,
+      "inventario": [],
+      "repetidos": []
+    }
+  }
+}

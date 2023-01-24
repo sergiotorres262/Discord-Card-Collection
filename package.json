@@ -1,0 +1,27 @@
+{
+  "name": "DaBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.2",
+    "humanize-duration": "^3.26.0",
+    "megadb": "^3.4.0",
+    "ms": "^2.1.3",
+    "pretty-ms": "^7.0.1",
+    "twitter": "^1.7.1",
+    "utf-8-validate": "^5.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

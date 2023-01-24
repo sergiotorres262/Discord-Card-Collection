@@ -1,0 +1,128 @@
+{
+  "Cromos": {
+    "comunes": [
+      {
+        "url":"https://i.imgur.com/6lCSE68.png",
+        "name":"Cromo de Soker",
+        "key": "Cromo de Soker"
+
+        },
+        {
+         "url":"https://i.ibb.co/frrSBwQ/2.png",
+          "name":"Cromo de Vaircuss",
+          "key":"Cromo de Vaircuss"
+
+      },
+      {
+         "url":"https://i.ibb.co/K0jmFXt/3.png",
+          "name":"Cromo de Press",
+          "key":"Cromo de Press"
+
+      },
+      {
+         "url":"https://i.imgur.com/n0E5i7j.png",
+          "name":"Cromo de Hadess",
+          "key": "Cromo de Hadess"
+      },
+      {
+         "url":"https://i.imgur.com/xehL65M.png",
+          "name": "Cromo de Rogerzz",
+          "key": "Cromo de Rogerzz"
+      },
+      {
+         "url":"https://i.imgur.com/6yRB3z4.png",
+          "name": "Cromo de FlowX",
+          "key": "Cromo de FlowX"
+      },
+      {
+         "url":"https://i.imgur.com/2YixXsP.png",
+          "name": "Cromo de Ezetapsss",
+          "key": " Cromo de Ezetapsss"
+      },
+      {
+         "url":"https://i.imgur.com/4m0B4M8.png",
+          "name": "Cromo de Kaeryka",
+          "key": "Cromo de Kaeryka"
+      },
+      {
+         "url":"https://i.imgur.com/59pdkaq.png",
+          "name": "Cromo de Miiro",
+          "key": "Cromo de Miiro"
+      },
+      {
+         "url":"https://i.imgur.com/8HVDBcD.png",
+          "name": "Cromo de Goyo",
+          "key": "Cromo de Goyo"
+      },
+      {
+         "url": "https://i.imgur.com/93oH7tT.png",
+          "name": "Cromo de Falconzz",
+          "key": "Cromo de Falconzz"
+      },
+      {
+         "url":"https://i.imgur.com/v4ylvze.png",
+          "name": "Cromo de Sil3nt",
+          "key": "Cromo de Sil3nt"
+      },
+      {
+         " ur":"https://i.ibb.co/fYtQ5w2/14.png",
+          "name": "Cromo de Chiky",
+          "key": "Cromo de Chiky"
+
+      },
+      {
+         "url":"https://i.imgur.com/ksDMVre.png",
+          "name": "Cromo de Javitotti",
+          "key": "Cromo de Javitotti"
+
+      },
+      {
+         "url":"https://i.imgur.com/uXy1ONI.png",
+          "name": "Cromo de Daves",
+          "key": "Cromo de Daves"
+      },
+      {
+         "url":"https://i.imgur.com/veJmnCO.png",
+          "name": "Cromo de Milioz",
+          "key": "Cromo de Milioz"
+      },
+      {
+         "url":"https://i.imgur.com/clSczRD.png",
+          "name": "Cromo de Manum",
+          "key": "Cromo de Manum"
+      },
+      {
+          "url":"https://i.imgur.com/b4DBp1U.png",
+          "name": "Cromo de Daan",
+          "key": "Cromo de Daan"
+      },
+      {
+         "url":"https://i.imgur.com/qwZCZH8.png",
+          "name":"Cromo de Dheylo",
+          "key":"Cromo de Dheylo"
+      },
+      {
+         "url":"https://i.imgur.com/GJlV3SB.png",
+          "name":"Cromo de Gladoop",
+          "key":"Cromo de Gladoop"
+      }
+  
+    ],
+    "moments": [
+      {
+        "url":"https://i.ibb.co/VmqwSs4/momentos.png",
+        "name": "Cromo momentos de Gamergy 2017",
+        "key": "Cromo de GY2017"
+
+      }
+    ],
+    "legendarias": [
+      {
+        "url":"https://i.ibb.co/Cwt4txn/carta-leyenda.png",
+        "name": "Cromo legendario de Flipin",
+        "key": "Cromo de FlipinLeyenda"
+
+      }
+    ]
+  }
+}
