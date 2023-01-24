@@ -41,4 +41,4 @@ client.once('ready', () => {
   console.log('Estoy listo!');
 });
 
-client.login('ODI1Njg4ODE3MDM3MjEzNzE3.YGBkog.4zV703ZPElDqsFiYgmoTsFCRk_M');
+client.login('');
